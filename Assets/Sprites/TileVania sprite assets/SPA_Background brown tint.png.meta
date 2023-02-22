@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 40f456dabd25c4fd19e3aab082deb8ec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 116, z: 116, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPA_Background brown tint_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba45df293e564d0ab03e9d6e7fc2b42
+      internalID: 1228254298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb5e3228cc8443498ac550da04b7a0b
+      internalID: -1287325709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b068ab5f4d74075b2683de899567a4
+      internalID: 1636034026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a395136f95594501a9b0a9a2b752cc6
+      internalID: -1204661794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da81baf62d364712918905e08ef650d
+      internalID: -1848303434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d61425659e004574a085e43bf77e32f
+      internalID: -1623513934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df104dd2e53b74461954de93f9069022
+      internalID: 382888797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084aa9a6ee1e74d678a90f5b3141beb0
+      internalID: 620913998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7b04fd51dd46398493141edca6230
+      internalID: 1704895091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a172de7a5f04f438c92fcecb8ab276b4
+      internalID: 1680864531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd479b70c57884cf1b203dfb3a2a7acd
+      internalID: 1758259187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9ea3b569f94d9ab8fceab16ad7c8d
+      internalID: 784332678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7748caa7f7204dfdbda1658eaea5d59
+      internalID: 663467457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f9b8ad69aa42cab2a7100354d9a45
+      internalID: -1415655365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1851d41797a4cfc9f57286d580361a
+      internalID: 1271171294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Background brown tint_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f777d92c5299245eebbef816da8264e7
+      internalID: -1011792307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -74, y: -38}
+      - {x: -74, y: -74}
+      - {x: -42, y: -74}
+      - {x: -40, y: -72}
+      - {x: -40, y: -40}
+      - {x: -42, y: -38}
+    - - {x: -38, y: -38}
+      - {x: -38, y: -74}
+      - {x: -2, y: -74}
+      - {x: -2, y: -38}
+    - - {x: 0, y: -38}
+      - {x: 0, y: -74}
+      - {x: 36, y: -74}
+      - {x: 36, y: -38}
+    - - {x: 40, y: -38}
+      - {x: 38, y: -40}
+      - {x: 38, y: -72}
+      - {x: 40, y: -74}
+      - {x: 72, y: -74}
+      - {x: 74, y: -72}
+      - {x: 74, y: -40}
+      - {x: 72, y: -38}
+    - - {x: -74, y: 0}
+      - {x: -74, y: -36}
+      - {x: -42, y: -36}
+      - {x: -40, y: -34}
+      - {x: -40, y: -2}
+      - {x: -42, y: 0}
+    - - {x: -38, y: 0}
+      - {x: -38, y: -36}
+      - {x: -2, y: -36}
+      - {x: -2, y: -2}
+      - {x: -4, y: 0}
+    - - {x: 0, y: -36}
+      - {x: 36, y: -36}
+      - {x: 36, y: 0}
+      - {x: 0, y: 0}
+    - - {x: 40, y: 0}
+      - {x: 38, y: -2}
+      - {x: 38, y: -34}
+      - {x: 40, y: -36}
+      - {x: 72, y: -36}
+      - {x: 74, y: -34}
+      - {x: 74, y: -2}
+      - {x: 72, y: 0}
+    - - {x: -74, y: 38}
+      - {x: -74, y: 2}
+      - {x: -42, y: 2}
+      - {x: -40, y: 4}
+      - {x: -40, y: 36}
+      - {x: -42, y: 38}
+    - - {x: -38, y: 38}
+      - {x: -38, y: 2}
+      - {x: -2, y: 2}
+      - {x: -2, y: 38}
+    - - {x: 2, y: 38}
+      - {x: 0, y: 36}
+      - {x: 0, y: 4}
+      - {x: 2, y: 2}
+      - {x: 34, y: 2}
+      - {x: 36, y: 4}
+      - {x: 36, y: 36}
+      - {x: 34, y: 38}
+    - - {x: 40, y: 38}
+      - {x: 38, y: 36}
+      - {x: 38, y: 4}
+      - {x: 40, y: 2}
+      - {x: 72, y: 2}
+      - {x: 74, y: 4}
+      - {x: 74, y: 36}
+      - {x: 72, y: 38}
+    - - {x: -74, y: 74}
+      - {x: -74, y: 40}
+      - {x: -42, y: 40}
+      - {x: -40, y: 42}
+      - {x: -40, y: 74}
+    - - {x: -38, y: 74}
+      - {x: -38, y: 42}
+      - {x: -36, y: 40}
+      - {x: -4, y: 40}
+      - {x: -2, y: 42}
+      - {x: -2, y: 74}
+    - - {x: 0, y: 74}
+      - {x: 0, y: 42}
+      - {x: 2, y: 40}
+      - {x: 34, y: 40}
+      - {x: 36, y: 42}
+      - {x: 36, y: 74}
+    - - {x: 38, y: 74}
+      - {x: 38, y: 42}
+      - {x: 40, y: 40}
+      - {x: 72, y: 40}
+      - {x: 74, y: 42}
+      - {x: 74, y: 74}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SPA_Background brown tint_4: -1848303434
+      SPA_Background brown tint_10: 1758259187
+      SPA_Background brown tint_15: -1011792307
+      SPA_Background brown tint_11: 784332678
+      SPA_Background brown tint_0: 1228254298
+      SPA_Background brown tint_1: -1287325709
+      SPA_Background brown tint_13: -1415655365
+      SPA_Background brown tint_3: -1204661794
+      SPA_Background brown tint_6: 382888797
+      SPA_Background brown tint_2: 1636034026
+      SPA_Background brown tint_7: 620913998
+      SPA_Background brown tint_9: 1680864531
+      SPA_Background brown tint_8: 1704895091
+      SPA_Background brown tint_12: 663467457
+      SPA_Background brown tint_14: 1271171294
+      SPA_Background brown tint_5: -1623513934
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
